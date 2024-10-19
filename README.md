@@ -1,2 +1,2 @@
-# courses
-An experiment with Killercoda courses
+# Tutorials
+An experiment with Killercoda as a way to deliver interactive technical tutorials
